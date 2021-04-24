@@ -7,7 +7,7 @@ Vaibhav Vasani and Pradnya Bhangale
 KJSCE
 
 # Instruction to execute code
-download and setup jupyter notebook on your local machine
-download the project on your local machine
-open the ipynb file on jupyter notebook
-run the cells
+1) download and setup jupyter notebook on your local machine.
+2) download the project on your local machine.
+3) open the ipynb file on jupyter notebook.
+4) run the cells.
